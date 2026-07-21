@@ -29,7 +29,7 @@ const docDefinition = {
           ['Juego', 'Plataforma', 'Estado'],
           ['League of Legends', 'PC', 'Jugando'],
           ['Minecraft', 'PC / Consola', 'En progreso'],
-          ['Genshin Impact', 'PC / Móvil', 'Completado']
+          ['efootball', 'PC / Móvil', 'En progreso']
         ]
       }
     },
